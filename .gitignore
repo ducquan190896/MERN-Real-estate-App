@@ -1,5 +1,0 @@
-PORT=5000
-private_key=hello
-MONGO_URL=mongodb+srv://quandoan190896:quandoan190896@quandoan.5rynyv5.mongodb.net/housing-app
-
-geocode_key=nnel2zDFG0in6dSbhGddNwcwSeVQy3Tp
